@@ -1,2 +1,1 @@
-# GreenLeaf-Grocers
-End-to-end QA capstone covering manual testing, API validation, Playwright automation, SQL testing, and defect reporting.
+QA capstone project focused on the GreenLeaf Grocers checkout overhaul, covering QA planning, guest checkout test design, exploratory UI and API testing, Playwright automation, SQL database validation, defect reporting, and release readiness assessment.
